@@ -1,6 +1,6 @@
-import './Major.css'
+import './StartScreen.css'
 
-const Major = () => {
+const StartScreen = () => {
   return (
     <div className='start'>
         <h1>Game Word</h1>
@@ -10,4 +10,4 @@ const Major = () => {
   )
 }
 
-export default Major
+export default StartScreen
